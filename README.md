@@ -1,4 +1,4 @@
-# 💫 About Me:
+### 💫 About Me:
 😭 Aiming to learn JavaSript or Python
 👌 Help is required
 
